@@ -1,4 +1,4 @@
-package strings;
+package stringsandarrays;
 
 import java.text.Normalizer;
 
